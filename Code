@@ -1,2 +1,9 @@
-Um auf den Code zuzugreifen benutzt man diesen Link:
+Um auf den aktuellen Code zuzugreifen benutzt man diesen Link:
 https://colab.research.google.com/drive/1CsgfM6YazYryZ3pdS0p8LP_jS2sOYpTe?usp=sharing
+
+Der alte Code noch mit QA-Paaren ist unter diesem Link zu finden:
+https://colab.research.google.com/drive/12J4rgpczmjSARx8Kw6kGd1lmlroCovX3?usp=sharing
+
+Zu beachten!
+Der QA-Paar Code ist nicht die ausgereifteste Version, welche mit QA-Paaren vorhanden war. Jedoch ist der neueste Code mit QA-Paaren mit den Dialog Paaren ersetzt worden und das ist der letzte Stand der aufgefunden werden
+konnte. Dieser Code ist aber auch der, aus dem die Ergebnisse für das auf QA-Paaren trainierte DialoGPT Modell stammen.
